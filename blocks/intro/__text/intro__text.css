@@ -8,16 +8,16 @@
   color: #fff;
 }
 
-@media screen and (max-width: 1023px) {
+/*@media screen and (max-width: 1023px) {
   .intro__text {
     max-width: 45rem;
 
   }
-}
+}*/
 
-@media screen and (max-width: 767px) {
+/*@media screen and (max-width: 767px) {
   .intro__text {
     text-align: start;
   }
-}
+}*/
 

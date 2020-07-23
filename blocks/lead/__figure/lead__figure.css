@@ -1,21 +1,29 @@
 .lead__figure {
-  margin: 0 auto;
+  margin: 0;
+  padding-left: 9.25rem;
+  padding-right: 9.25rem;
+  max-width: 61.5rem;
 }
 
-@media screen and (max-width: 1279px) {
-  .lead__image {
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
+  .lead__figure {
     min-width: 58rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
 }
 
-@media screen and (max-width: 1023px) {
-  .lead__image {
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+  .lead__figure {
     min-width: 48rem;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .lead__image {
+  .lead__figure {
     min-width: 20rem;
+    padding: 0;
   }
 }

@@ -29,6 +29,7 @@
   .place {
     grid-template-columns: 20rem;
     row-gap: 2rem;
+    justify-content: center;
   }
 }
 
