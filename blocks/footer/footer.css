@@ -1,0 +1,20 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5.75rem;
+  padding-bottom: 1.5rem;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1023px) {
+  .footer {
+    padding-top: 5.5rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    padding-top: 4rem;
+    flex-direction: column;
+  }
+}
