@@ -16,4 +16,8 @@
 
 Основой является адаптация страницы под разные разрешения экранов, выполненная с помощью медиазапросов.
 
+<<<<<<< HEAD
 https://zmeev.github.io/russian-travel/index.html
+=======
+https://zmeev.github.io/russian-travel/index.html
+>>>>>>> f41998c56c895cbfad0fe40b44912813023721f2
