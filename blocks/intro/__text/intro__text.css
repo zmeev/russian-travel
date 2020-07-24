@@ -8,6 +8,12 @@
   color: #fff;
 }
 
+@media screen and (max-width: 767px) and (min-width: 321px) {
+  .intro__text {
+    width: auto;
+    box-sizing: border-box;
+  }
+}
 /*@media screen and (max-width: 1023px) {
   .intro__text {
     max-width: 45rem;
