@@ -2,8 +2,6 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/indent-a/indent-a.css);
-@import url(../blocks/indent-b/indent-b.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
